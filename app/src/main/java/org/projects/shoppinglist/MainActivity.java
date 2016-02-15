@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
         //getting our listiew - you can check the ID in the xml to see that it
         //is indeed specified as "list"
-        ListView listView = (ListView) findViewById(R.id.list);
+        listView = (ListView) findViewById(R.id.list);
         //here we create a new adapter linking the bag and the
         //listview
         adapter =  new ArrayAdapter<String>(this,
