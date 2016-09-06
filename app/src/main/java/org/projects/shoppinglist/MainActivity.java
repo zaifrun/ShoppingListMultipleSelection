@@ -56,7 +56,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        //add some stuff to the list
+        //add some stuff to the list so we have something
+        // to show on app startup
         bag.add("Bananas");
         bag.add("Apples");
 
