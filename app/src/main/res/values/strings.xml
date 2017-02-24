@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">ShoppingList</string>
+    <string name="app_name">ShoppingListMultipleSelections</string>
     <string name="action_settings">Settings</string>
 </resources>
